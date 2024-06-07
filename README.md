@@ -5,8 +5,7 @@
 
 ## Overview and Origin
 
-**Name of company?** <br><br>
- **ShotTracker**
+# ShotTracker
 
 **When was the company incorporated?** <br><br>
     *ShotTracker was incorporated in the year 2013.*
