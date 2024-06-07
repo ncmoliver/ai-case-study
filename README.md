@@ -1,4 +1,6 @@
-# ai-case-study
+# ShotTracker
+### AI Case Study
+
 ![ShotTracker company logo](shotTracker.jpeg)
 
 ## Overview and Origin
