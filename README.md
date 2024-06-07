@@ -31,7 +31,7 @@
     - ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030. 
     - This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events.
 
-**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**<br>
     - Competiors: ShotTracker are in two different markets when it comes to comeptitors. They compete in the wearables market, where their competitors could be companies like Fitbit and they also compete in the market of sports analytics, where their competition would be companies like Noah Basketball
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)** <br>
