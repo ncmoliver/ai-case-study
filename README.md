@@ -35,10 +35,10 @@
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
     *ShotTracker uses 3 components:* <br>
-    - [ ] **ShotTracker Enabled Basketball** <br>
-    - [ ] **Player Sensors** <br>
-    - [ ] **Anchors (located in the rafters)**<br>
-    *The ShotTracker enabled basketball, allows for tracking the type of shot and location of the shot.<br>*
+    - [ ] ==ShotTracker Enabled Basketball== <br>
+    - [ ] ==Player Sensors== <br>
+    - [ ] ==Anchors (located in the rafters)==<br>
+    *The ShotTracker enabled basketball, allows for tracking the type of shot and location of the shot.*<br>
 
 ## Landscape
 
