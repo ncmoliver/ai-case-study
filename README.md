@@ -22,9 +22,9 @@
 **What specific problem is the company or project trying to solve?**<br><br>
     - *The company is solving the problem of providing real-time statistics and analytics. In doing so, this has the potential to change the dynamics of in-game, real-time, decisions.*
     <div style="text-align: center"> 
-        <br>**Coaches**: Provided with live data and stats and custom reports in an instance. 
-        <br>**Players**: can see their individual results, box score, and leaderboards. 
-        <br>**Fans**: can follow their favorite player during games from anywhere.
+        <center>**Coaches** *: Provided with live data and stats and custom reports in an instance.*<br></center>
+        <center>**Players** *: can see their individual results, box score, and leaderboards.*<br></center>
+        <center>**Fans**: *can follow their favorite player during games from anywhere.*<br></center>
     </div>
         
 
