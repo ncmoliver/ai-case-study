@@ -25,13 +25,13 @@
 **What specific problem is the company or project trying to solve?**<br><br>
     -  ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.
 
-**Coaches** *: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*   
-**Players** *: Players can see their individual results, box score, and leaderboards live as it happens.*   
-**Fans** *: Fans can follow their favorite player during games from anywhere.*         
+    **Coaches**: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*   
+    **Players** *: Players can see their individual results, box score, and leaderboards live as it happens.*   
+    **Fans** *: Fans can follow their favorite player during games from anywhere.*         
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**<br><br>
-    - ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030. 
-    - This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events.
+    *ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030.*
+    *This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events*
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**<br>
     - **The Solution**: The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.
