@@ -2,7 +2,7 @@
 
 
 ## Overview and Origin
-
+________
 **Name of company?** <br><br>
     - *ShotTracker*
 
@@ -18,10 +18,10 @@
 **How is the company funded? How much funding have they received?**<br><br>
     - *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.*
 ## Business Activities
-
+________
 **What specific problem is the company or project trying to solve?**<br><br>
     *The company is solving the problem of providing real-time statistics and analytics. In doing so, this has the potential to change the dynamics of in-game, real-time, decisions.*<br>
-        <br>**Coaches**: Provided with live data and stats and custom reports in an instance. 
+        <br><left-align>**Coaches**: Provided with live data and stats and custom reports in an instance. 
         <br>**Players**: can see their individual results, box score, and leaderboards. 
         <br>**Fans**: can follow their favorite player during games from anywhere.*
 
