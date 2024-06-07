@@ -6,24 +6,24 @@
 ## Overview and Origin
 
 **Name of company?** <br><br>
-    - ShotTracker
+## ShotTracker
 
 **When was the company incorporated?** <br><br>
-    - ShotTracker was incorporated in the year 2013.
+    *ShotTracker was incorporated in the year 2013.*
 
 **Who are the founders of the company?**<br><br>
-    - Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.
+    *Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.*
 
 **How did the idea for the company (or project) come about?**<br><br>
-    - There is not much information about how the company came about. However, both founders played college sports and have impressive professional backgrounds. Both founders, had previous companies that were successful that they later sold before ShotTracker was born. 
+    *There is not much information about how the company came about. However, both founders played college sports and have impressive professional backgrounds. Both founders, had previous companies that were successful that they later sold before ShotTracker was born.* 
 
 **How is the company funded? How much funding have they received?**<br><br>
-    - ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.
+    *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.*
 
 ## Business Activities
 
 **What specific problem is the company or project trying to solve?**<br><br>
-    -  ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.
+    *ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.*
 
     **Coaches**: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*   
     **Players** *: Players can see their individual results, box score, and leaderboards live as it happens.*   
