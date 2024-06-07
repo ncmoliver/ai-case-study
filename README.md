@@ -17,16 +17,15 @@
 
 **How is the company funded? How much funding have they received?**<br><br>
     - *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.*
+    
 ## Business Activities
 
 **What specific problem is the company or project trying to solve?**<br><br>
     - *The company is solving the problem of providing real-time statistics and analytics. In doing so, this has the potential to change the dynamics of in-game, real-time, decisions.*<br>
     ---
-    **Coaches** *: Provided with live data and stats and custom reports in an instance.*<br>
-    **Players** *: can see their individual results, box score, and leaderboards.*<br>
-    **Fans** *: can follow their favorite player during games from anywhere.*<br>
-    
-        
+    **Coaches** *: Provided with live data and stats and custom reports in an instance.*   
+    **Players** *: can see their individual results, box score, and leaderboards.*   
+    **Fans** *: can follow their favorite player during games from anywhere.*         
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**<br><br>
     *ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030. This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events.*
