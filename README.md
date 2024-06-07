@@ -1,5 +1,5 @@
 # ai-case-study
-
+![ShotTracker company logo](shotTracker.jpeg)
 
 ## Overview and Origin
 
@@ -51,11 +51,11 @@
 ## Landscape
 
 **What field is the company in?**
-    ShotTracker is in the basketball analytics or Sports Analytics field. 
+    - ShotTracker is in the basketball analytics or Sports Analytics field. 
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
-    The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations. 
+    - The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations. 
 
 **What are the other major companies in this field?**
 
