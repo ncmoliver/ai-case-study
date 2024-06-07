@@ -23,25 +23,26 @@
 **What specific problem is the company or project trying to solve?**<br><br>
     - The company is solving the problem of providing real-time statistics and analytics. In doing so, this has the potential to change the dynamics of in-game, real-time, decisions.   
 
-**Coaches** *: Provided with live data and stats and custom reports in an instance.*   
-**Players** *: can see their individual results, box score, and leaderboards.*   
-**Fans** *: can follow their favorite player during games from anywhere.*         
+**Coaches** *: Coaches are provided with live data and stats and custom reports in an instance.*   
+**Players** *: Players can see their individual results, box score, and leaderboards.*   
+**Fans** *: Fans can follow their favorite player during games from anywhere.*         
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**<br><br>
-    *ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030. This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events.*
+    - ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030. 
+    - This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events.
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
-    *Competiors: ShotTracker are in two different markets when it comes to comeptitors. They compete in the wearables market, where their competitors could be companies like Fitbit and they also compete in the market of sports analytics, where their competition would be companies like Noah Basketball*
+    - Competiors: ShotTracker are in two different markets when it comes to comeptitors. They compete in the wearables market, where their competitors could be companies like Fitbit and they also compete in the market of sports analytics, where their competition would be companies like Noah Basketball
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)** <br>
 
-    *ShotTracker uses 3 components:*
+    ShotTracker uses 3 components:
 
     - [ ] ShotTracker Enabled Basketball 
     - [ ] Player Sensors
     - [ ] Anchors (located in the rafters)
 
-    *The ShotTracker enabled basketball, allows for tracking the type of shot and location of the shot.*
+    - The ShotTracker enabled basketball, allows for tracking the type of shot and location of the shot.
 
 ## Landscape
 
