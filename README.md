@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-* Name of company?
+** Name of company? **
     * ShotTracker
 
 * When was the company incorporated?
