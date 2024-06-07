@@ -3,17 +3,17 @@
 
 ## Overview and Origin
 
-**Name of company?**
+**Name of company?** <br>
     *ShotTracker*
 
-**When was the company incorporated?**
+**When was the company incorporated?** <br>
     *ShotTracker was incorporated in the year 2013.*
 
-**Who are the founders of the company?**
+**Who are the founders of the company?**<br>
     *Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.*
-**How did the idea for the company (or project) come about?**
+**How did the idea for the company (or project) come about?**<br>
     * 
-**How is the company funded? How much funding have they received?**
+**How is the company funded? How much funding have they received?**<br>
     *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.*
 ## Business Activities
 
