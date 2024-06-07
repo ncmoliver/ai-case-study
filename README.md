@@ -34,9 +34,9 @@
     *Competiors: ShotTracker are in two different markets when it comes to comeptitors. They compete in the wearables market, where their competitors could be companies like Fitbit and they also compete in the market of sports analytics, where their competition would be companies like Noah Basketball*
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-    *ShotTracker uses 3 components:* 
-    - [ ] **ShotTracker Enabled Basketball**
-    - [ ] **Player Sensors**
+    *ShotTracker uses 3 components:* <br>
+    - [ ] **ShotTracker Enabled Basketball** <br>
+    - [ ] **Player Sensors** <br>
     - [ ] **Anchors (located in the rafters)**<br>
     *The ShotTracker enabled basketball, allows for tracking the type of shot and location of the shot.<br>*
 
