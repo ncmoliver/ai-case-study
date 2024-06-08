@@ -5,7 +5,8 @@
 
 ## Overview and Origin
 
-# ShotTracker
+**Name of company?** <br><br>
+    *ShotTracker*
 
 **When was the company incorporated?** <br><br>
     *ShotTracker was incorporated in the year 2013.*
@@ -33,7 +34,7 @@
     *This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events*
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**<br>
-    - **The Solution**: The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.
+    - **The Solution**: *The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.*
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
@@ -43,7 +44,7 @@
     - [ ] Player Sensors
     - [ ] Anchors (located in the rafters)
 
-**The ShotTracker Enabled Basketball***: Allows for tracking the location of the basketball and every player on the court.
+**The ShotTracker Enabled Basketball***: Allows for tracking the location of the basketball and every player on the court.*
 
 **Player Sensors***: It is small square shaped wearable that is attached to the players shoe.*
 
@@ -52,11 +53,11 @@
 ## Landscape
 
 **What field is the company in?**
-    - ShotTracker is in the basketball analytics or Sports Analytics field. 
+    *ShotTracker is in the basketball analytics or Sports Analytics field.* 
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
-    - The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations. 
+    *The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations.* 
 
 **What are the other major companies in this field?**
 
@@ -67,11 +68,13 @@ Other major companies in this field are:
 ## Results
 
 * What has been the business impact of this company so far?
-    - The business impact of ShotTracker has been steadily growing.
+    - The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-    Some core metrics th
+    **Player Performance***Player Efficiency Rating: This measures each players positive or negative contributions.*
+    **Player Development***Player and coaches receive objective analysis on player and team strengths and weaknesses.*
+    **Team 
 
 * How is your company performing relative to competitors in the same field?
 
