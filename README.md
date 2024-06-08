@@ -28,7 +28,7 @@
 **Coaches** *: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*    
 
 **Players** *: Players can see their individual results, box score, and leaderboards live as it happens.*     
-  
+
 **Fans** *: Fans can follow their favorite player during games from anywhere.*         
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**<br><br>
@@ -40,11 +40,11 @@
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
-    ShotTracker uses 3 components:
+ShotTracker uses 3 components:
 
-    - [ ] ShotTracker Enabled Basketball 
-    - [ ] Player Sensors
-    - [ ] Anchors (located in the rafters)
+- [ ] ShotTracker Enabled Basketball 
+- [ ] Player Sensors
+- [ ] Anchors (located in the rafters)
 
 **The ShotTracker Enabled Basketball***: Allows for tracking the location of the basketball and every player on the court.*
 
