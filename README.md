@@ -94,14 +94,17 @@ Other major companies in this field are:
 *The time fans, players, coaches spend on the app shows a 
 
 **How is your company performing relative to competitors in the same field?**    
-ShotTracker is performing fairly well compared to their competitors, because of their steady growth and years of experience in the industry.  
+*ShotTracker is performing fairly well compared to their competitors, because of their steady growth and years of experience in the industry.*  
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**   
-VR Training Products: With VR, I would suggest that they create glasses or goggle that also connect to the anchor. With this, possibly it could show players different drill statistics (reps, makes, misses), game speed they are moving at, up to create training courses where players are directed through the course, which is essentially down the court. With the time they will be directed, tested, which alleviated the mental control a player typically uses when they freelance. This images the game like scenario a player is facing in the game, but in a training environment. 
+
+*VR Training Products: With VR, I would suggest that they create glasses or goggle that also connect to the anchor. With this, possibly it could show players different drill statistics (reps, makes, misses), game speed they are moving at, up to create training courses where players are directed through the course, which is essentially down the court. With the time they will be directed, tested, which alleviated the mental control a player typically uses when they freelance. This images the game like scenario a player is facing in the game, but in a training environment.*
 
 
-**Why do you think that offering this product or service would benefit the company?**
+**Why do you think that offering this product or service would benefit the company?**    
+
+*I believe this product would benefit the company because of the impact it would make on the player. The game of basketball is played so fast that it counters how you can give instruction in certain moments. Without putting the player back into that exact moment, it takes a lot of time and alternate methods which replicates the concept but not the exact moment. A visual representation would be next level in player develpment. This has the potential to provide an excct replication of the metrics of specfic players of all sizes, offensively and defensively, training the model on fundamental angles, lines, lanes and movements.* 
 
 **What technologies would this additional product or service utilize?**
 
