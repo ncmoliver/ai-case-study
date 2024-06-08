@@ -5,25 +5,25 @@
 
 ## Overview and Origin
 
-**Name of company?** <br><br>
-    *ShotTracker*
+**Name of company?**     
+*ShotTracker*
 
-**When was the company incorporated?** <br><br>
-    *ShotTracker was incorporated 11 years ago, in the year 2013.*
+**When was the company incorporated?**     
+*ShotTracker was incorporated 11 years ago, in the year 2013.*
 
-**Who are the founders of the company?**<br><br>
-    *Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.*
+**Who are the founders of the company?**     
+*Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.*
 
-**How did the idea for the company (or project) come about?**<br><br>
-    *There is not much information about how the company came about. However, both founders played college sports and have impressive professional backgrounds. Both founders, had previous companies that were successful that they later sold before ShotTracker was born.* 
+**How did the idea for the company (or project) come about?**    
+*There is not much information about how the company came about. However, both founders played college sports and have impressive professional backgrounds. Both founders, had previous companies that were successful that they later sold before ShotTracker was born.* 
 
-**How is the company funded? How much funding have they received?**<br><br>
-    *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013. Most recently, 3 years ago for $2 Million dollars.*
+**How is the company funded? How much funding have they received?** 
+*ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013. Most recently, 3 years ago for $2 Million dollars.*
 
 ## Business Activities
 
 **What specific problem is the company or project trying to solve?**<br><br>
-    *ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.*
+*ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.*
 
 **Coaches** *: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*    
 
@@ -31,12 +31,12 @@
 
 **Fans** *: Fans can follow their favorite player during games from anywhere.*         
 
-**Who is the company's intended customer? Is there any information about the market size of this set of customers?**<br><br>
-    *ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030.*
-    *This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events*
+**Who is the company's intended customer? Is there any information about the market size of this set of customers?** 
+*ShotTrackers intended customers are basketball teams, ranging from amateur to professional. The market size of the basketball industry as a whole is valued at $986.79M in 2023 and is expected to reach $1546.35M by the end of 2030.*    
+*This includes manufacturing and distribution of basketball-related gear, clothing, accessories, and the planning and marketing of basketball-related events*
 
-**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**<br>
-    - **The Solution**: *The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.*
+**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**    
+*The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.*
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
@@ -48,8 +48,8 @@ ShotTracker uses 3 components:
 
 ## Landscape
 
-**What field is the company in?**
-    *ShotTracker is in the basketball analytics or Sports Analytics.* 
+**What field is the company in?**    
+*ShotTracker is in the basketball analytics or Sports Analytics.* 
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
