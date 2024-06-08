@@ -57,8 +57,8 @@
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
-    *The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations.* 
-    *Some of the major trends that have taken place in this field over the past 5 to 10 years are wearables. A wearable is something a player wears during practice or the game. ShotTracker has a wearable that is attached to the players shoe.* 
+*The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations.*
+*Some of the major trends that have taken place in this field over the past 5 to 10 years are wearables. A wearable is something a player wears during practice or the game. ShotTracker has a wearable that is attached to the players shoe.*
 **What are the other major companies in this field?**
 
 Other major companies in this field are:
