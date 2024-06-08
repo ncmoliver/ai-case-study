@@ -82,8 +82,8 @@ Fan engaging through downloads are clear metrics that sthe new app features
 Time Spent On App:
 
 
-**How is your company performing relative to competitors in the same field?**
-    ShotTracker is performing fairly well compared to their competitors. 
+**How is your company performing relative to competitors in the same field?**    
+ShotTracker is performing fairly well compared to their competitors. 
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
