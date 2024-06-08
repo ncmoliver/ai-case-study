@@ -64,23 +64,23 @@ Other major companies in this field are:
     * BTE Analytics
 ## Results
 
-* What has been the business impact of this company so far?
+**What has been the business impact of this company so far?**
     - The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+**What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
     **Player Performance***Player Efficiency Rating: This measures each players positive or negative contributions.*
     **Player Development***Player and coaches receive objective analysis on player and team strengths and weaknesses.*
     **Team 
 
-* How is your company performing relative to competitors in the same field?
+**How is your company performing relative to competitors in the same field?**
     ShotTracker is performing fairly well compared to their competitors. 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-* Why do you think that offering this product or service would benefit the company?
+**Why do you think that offering this product or service would benefit the company?**
 
-* What technologies would this additional product or service utilize?
+**What technologies would this additional product or service utilize?**
 
-* Why are these technologies appropriate for your solution?
+**Why are these technologies appropriate for your solution?**
