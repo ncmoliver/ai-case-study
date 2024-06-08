@@ -42,12 +42,9 @@
 
 ShotTracker uses 3 components:
 
-- [ ] ShotTracker Enabled Basketball 
-*Allows for tracking the location of the basketball and every player on the court.*
-- [ ] Player Sensors   
-*It is small square shaped wearable that is attached to the players shoe.*
-- [ ] Anchors (located in the rafters)   
-*The anchors are trained appropiately to track the players, the basketball, and to differentiate between the different areas on the basketball court.*
+- [ ] ShotTracker Enabled Basketball: *Allows for tracking the location of the basketball and every player on the court.*
+- [ ] Player Sensors: *It is small square shaped wearable that is attached to the players shoe.*
+- [ ] Anchors (located in the rafters): *The anchors are trained appropiately to track the players, the basketball, and to differentiate between the different areas on the basketball court.*
 
 ## Landscape
 
