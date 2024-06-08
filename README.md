@@ -68,7 +68,7 @@ Other major companies in this field are:
     - The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
-##### PER
+#### PER
 Player efficiency rating tracks a players positive/negative contributitons per minute on the court. This is a useful statistic due to the fact that it takes into account all of a players statistics game by game. With the goal of an improved player/team PER, due to the fact the technology is built to show player and team weaknesses which gives coaches the weak and strong areas of their system. They can essentially target strong areas, while developing the weak areas which provides a huge comeptitive advantage for teams, because they have this information at their hands in-game as well.    
 
 ###### Win/Loss    
