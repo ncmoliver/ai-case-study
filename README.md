@@ -65,7 +65,7 @@ Other major companies in this field are:
 ## Results
 
 **What has been the business impact of this company so far?**    
-- The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.
+*The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.*
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 #### PER
