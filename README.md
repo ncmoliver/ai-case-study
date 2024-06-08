@@ -68,10 +68,10 @@ ShotTracker uses 3 components:
 **What are the other major companies in this field?**
 
 Other major companies in this field are:
-* Shot Quality
-* Noah Basketball
-* Catapult
-* BTE Analytics
+* [Shot Quality](https://shotquality.com/)
+* [Noah Basketball](https://www.noahbasketball.com/)
+* [Catapult](https://www.catapult.com/)
+* [BTE Analytics](https://bteanalytics.co/)
 ## Results
 
 **What has been the business impact of this company so far?**    
