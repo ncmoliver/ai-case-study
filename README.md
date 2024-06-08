@@ -9,7 +9,7 @@
     *ShotTracker*
 
 **When was the company incorporated?** <br><br>
-    *ShotTracker was incorporated in the year 2013.*
+    *ShotTracker was incorporated 11 years ago, in the year 2013.*
 
 **Who are the founders of the company?**<br><br>
     *Bruce Ianni and Davyeon founded the company ShotTracker. Ianni played football at John Carroll University and Ross played basketball at Benedictine College.*
@@ -18,7 +18,7 @@
     *There is not much information about how the company came about. However, both founders played college sports and have impressive professional backgrounds. Both founders, had previous companies that were successful that they later sold before ShotTracker was born.* 
 
 **How is the company funded? How much funding have they received?**<br><br>
-    *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013.*
+    *ShotTracker has rasied a total of $30M over 8 rounds. They landed their first funding round 1 year after the company was founded in 2013. Most recently, 3 years ago for $2 Million dollars.*
 
 ## Business Activities
 
@@ -53,15 +53,16 @@
 ## Landscape
 
 **What field is the company in?**
-    *ShotTracker is in the basketball analytics or Sports Analytics field.* 
+    *ShotTracker is in the basketball analytics or Sports Analytics.* 
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
     *The major trends and innovations over the past 5 to 10 years have been incorporated in the sports analytics field are primarily the use of AI technologies, advanced data science techniques, and innovation in data visualization to look deeper into player and team performance, player development, injury prevention, fan behaviors and engagement, and the stability and management of basketball organizations.* 
-
+    *Some of the major trends that have taken place in this field over the past 5 to 10 years are wearables. A wearable is something a player wears during practice or the game. ShotTracker has a wearable that is attached to the players shoe.* 
 **What are the other major companies in this field?**
 
 Other major companies in this field are:
+    * Shot Quality
     * Noah Basketball
     * Catapult
     * BTE Analytics
@@ -77,7 +78,7 @@ Other major companies in this field are:
     **Team 
 
 * How is your company performing relative to competitors in the same field?
-
+    ShotTracker is performing fairly well compared to their competitors. 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
