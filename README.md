@@ -78,6 +78,7 @@ Other major companies in this field are:
 *The business impact of ShotTracker has changed the game dramatically. Coaches now have iPads on the sidelines, that keep them up to date and informed on team/player performance metrics. Live broadcast televised games have changed, where they are able to show charts, graphs, and court zone maps to viewers.*
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
+
 #### PER
 *Player efficiency rating tracks a players positive/negative contributitons per minute on the court. This is a useful statistic due to the fact that it takes into account all of a players statistics game by game. With the goal of an improved player/team PER, due to the fact the technology is built to show player and team weaknesses which gives coaches the weak and strong areas of their system. They can essentially target strong areas, while developing the weak areas which provides a huge comeptitive advantage for teams, because they have this information at their hands in-game as well.*    
 
@@ -91,9 +92,9 @@ Other major companies in this field are:
 *Fan engaging through downloads are clear metrics that sthe new app features* 
 
 #### Time Spent On App
-*The time fans, players, coaches spend on the app shows a 
+*The time fans, players, coaches spend on the app shows a clear indication of engagment.*
     
-    
+
 **How is your company performing relative to competitors in the same field?**    
     
 *ShotTracker is performing fairly well compared to their competitors, because of their steady growth and years of experience in the industry.*  
@@ -109,5 +110,12 @@ Other major companies in this field are:
 *I believe this product would benefit the company because of the impact it would make on the player. The game of basketball is played so fast that it counters how you can give instruction in certain moments. Without putting the player back into that exact moment, it takes a lot of time and alternate methods which replicates the concept but not the exact moment. A visual representation would be next level in player develpment. This has the potential to provide an excct replication of the metrics of specfic players of all sizes, offensively and defensively, training the model on fundamental angles, lines, lanes and movements.* 
 
 **What technologies would this additional product or service utilize?**
+##### VR Glasses    
+*The VR glasses connects to the updated anchor to also locate the player and the metrics of the court to create the virtual environment* 
+#### VR Software    
+*The software is designed to control the features within the virtual environment.*    
+#### Basketball, Wearable, and Anchor Software Update    
+*The software within each device will need to be updated to connect and function along with VR features.*    
 
 **Why are these technologies appropriate for your solution?**
+The technologies provided are appropiate for the solution because on a surface level it covers all of the 
