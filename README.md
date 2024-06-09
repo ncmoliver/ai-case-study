@@ -87,7 +87,7 @@ The business impact of ShotTracker has changed the game dramatically. Coaches no
 
 ***PER***    
 Player efficiency rating tracks a players positive/negative contributitons per minute on the court. This is a useful statistic due to the fact that it takes into account all of a players statistics game by game. With the goal of an improved player/team PER, due to the fact the technology is built to show player and team weaknesses which gives coaches the weak and strong areas of their system. They can essentially target strong areas, while developing the weak areas which provides a huge comeptitive advantage for teams, because they have this information at their hands in-game as well.   
-<p style="text-align: center;">
+
 ***Win/Loss***    
 The rate of Wins and Losses could never be contributed to one thing. With the objective feedback, the goal is for teams to use it as a competitive advantage. Understanding what is working and what is not working, providing addtional time for coaches and teams to focus on solutions.
 
@@ -99,7 +99,7 @@ Fan engaging through downloads are clear metrics that sthe new app features
 
 ***Time Spent On App***   
 The time fans, players, coaches spend on the app shows a clear indication of engagment.
-</p >  
+ 
     
 
 **How is your company performing relative to competitors in the same field?**    
