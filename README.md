@@ -100,7 +100,8 @@ Fan engaging through downloads are clear metrics that sthe new app features
 ***Time Spent On App***   
 The time fans, players, coaches spend on the app shows a clear indication of engagment.
     
-
+    
+    
 **How is your company performing relative to competitors in the same field?**    
     
 ShotTracker is performing fairly well compared to their competitors, because of their steady growth and years of experience in the industry.*
