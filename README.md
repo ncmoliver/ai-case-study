@@ -13,10 +13,7 @@
 
 [Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)    
 
-
-**Name of company?**     
-
-ShotTracker
+# Overview and Origin
 
 **When was the company incorporated?**     
 
