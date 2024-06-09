@@ -37,11 +37,17 @@ ShotTracker has rasied a total of $30M over 8 rounds. They landed their first fu
 
 ShotTracker is looking to enhance decision making all across the board in basketball. In the information age, people are want the knowledge without having to look for it which increase engagement, saves them time and resources, and gives them more time to focus on the game. Coaches receive live-stats on what is going on in this game, combined with all previous games which provides an competitive advantage, more informed decisions, and an objective overview on performance.
 
-**Coaches** *: Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.*    
+**Coaches**
+![Coaches ipad with custon reports, available on the sideline](coaching_ipad.png)
+Coaches are provided with live stats, data, and metrics built into custom reports to make in-game decisions.   
 
-**Players** *: Players can see their individual results, box score, and leaderboards live as it happens.*     
+**Players**
+![Player visualizations, metrics, and statistics](player_metrics.png)
+Players can see their individual results, box score, and leaderboards live as it happens.   
 
-**Fans** *: Fans can follow their favorite player during games from anywhere.*         
+**Fans**
+![ShotTrackers app in use on a mobile device](shot_tracker_app.png)
+Fans can follow their favorite player during games from anywhere, using the ShotTracker App.         
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**   
 
@@ -120,7 +126,8 @@ VR Training Products: With VR, I would suggest that they create glasses or goggl
 I believe this product would benefit the company because of the impact it would make on the player. The game of basketball is played so fast that it counters how you can give instruction in certain moments. Without putting the player back into that exact moment, it takes a lot of time and alternate methods which replicates the concept but not the exact moment. A visual representation would be next level in player develpment. This has the potential to provide an excct replication of the metrics of specfic players of all sizes, offensively and defensively, training the model on fundamental angles, lines, lanes and movements.
 
 **What technologies would this additional product or service utilize?**
-* VR Glasses:The VR glasses connects to the updated anchor to also locate the player and the metrics of the court to create the virtual environment. The VR glasses allows for players to see and interact with the training software-- training courses, figures, cones, drill directions, corrections, drill type, etc.
+* VR Glasses    
+The VR glasses connects to the updated anchor to also locate the player and the metrics of the court to create the virtual environment. The VR glasses allows for players to see and interact with the training software-- training courses, figures, cones, drill directions, corrections, drill type, etc.
 * VR Software  
 The software is designed to control the features within the virtual environment (the anchor) and individual features within the VR glasses, to create a game like training environment for players to develop their skills in every facet of the game.  
 * Basketball, Wearable, and Anchor Software Update:     
@@ -132,3 +139,5 @@ The software is designed to control the features within the virtual environment 
 
 The technologies provided are appropiate for the solution because ultimately the goal is to cover the whole of how VR combined with AI has the potential to visually recreate game like situations in a similation environment, which has the potential to hold players accountable without coaches or trainers present.    
 As you connect with different industries whom have already created similar ideas and products, with the goal of creating the most low-cost prototype possible in order to completing this function. This is not about cutting corner, it's about starting somewhere. The problem is that athletes today are running faster and jumping higher than ever before. The game of basketball, naturally confines this athleticism within halves of the court for majority of games. VR and AI combined provides the opportunity to fundamentally build an effective player by provide game-like confinements in training environments to teach a player how to use their athleticism within the confinements of the game. 
+     
+## References
