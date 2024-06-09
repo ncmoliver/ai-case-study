@@ -2,8 +2,12 @@
 ### AI Case Study
 
 ![ShotTracker company logo](shotTracker.jpeg)
-
-## Overview and Origin
+# Table Of Contents
+[Overview and Orgin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)
+[Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)
+[Landscape](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#landscape)
+[Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)
+[Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)
 
 **Name of company?**     
 
