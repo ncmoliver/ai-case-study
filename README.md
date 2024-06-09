@@ -50,7 +50,10 @@ This includes manufacturing and distribution of basketball-related gear, clothin
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)** 
 
-The solution that ShotTracker offers that their competitors are that real time data allows for coaches to make better in-game decisions.
+The solution that ShotTracker offers that their competitors do not, are the real time stats, placement, and information they have the ability to obtain from the player (wearable), the court (anchor device), and the ShotTracker Enabled Basketball. 
+ShotTrackers competitors typically uses one center devices near the backboard to track certain metrics. Noah analytics for example, the company is designed as a player development tool. Some competitors do not have an in-game product that they offer.    
+
+Shotquality is a similar competitor that has the capability of providing real-time statistics, however their company is build off of trained AI models. The models are designed to use over 90 different variables to predict the quality or probability of every shot. ShotQuality offers some of the same functions, it's just the information is gather and processed differently. Based on my experience in basketball, I trust more objective data points from the source, which is why I credit ShotTracker for their ideas and contribution in the game of basketball.   
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
@@ -99,7 +102,7 @@ Fan engaging through downloads are clear metrics that sthe new app features
 
 ***Time Spent On App***   
 The time fans, players, coaches spend on the app shows a clear indication of engagment.
- 
+
     
 
 **How is your company performing relative to competitors in the same field?**    
