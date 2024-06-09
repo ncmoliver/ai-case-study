@@ -120,17 +120,15 @@ VR Training Products: With VR, I would suggest that they create glasses or goggl
 I believe this product would benefit the company because of the impact it would make on the player. The game of basketball is played so fast that it counters how you can give instruction in certain moments. Without putting the player back into that exact moment, it takes a lot of time and alternate methods which replicates the concept but not the exact moment. A visual representation would be next level in player develpment. This has the potential to provide an excct replication of the metrics of specfic players of all sizes, offensively and defensively, training the model on fundamental angles, lines, lanes and movements.
 
 **What technologies would this additional product or service utilize?**
-***VR Glasses***    
-*The VR glasses connects to the updated anchor to also locate the player and the metrics of the court to create the virtual environment. The VR glasses allows for players to see and interact with the training software-- training courses, figures, cones, drill directions, corrections, drill type, etc.* 
-***VR Software***  
-*The software is designed to control the features within the virtual environment (the anchor) and individual features within the VR glasses.*    
-***Basketball, Wearable, and Anchor Software Update***   
-*The software within each device will need to be updated to connect and function along with VR features.*     
-* Basketball Software Update: There are settings where the basketball is not shown in the VR environment (for training purposes). Updating the software inside of the basketball allows for the basketball to be trackable and visable in the virtual environment.    
-* Wearable Software Update: The wearable will need to be updated with the goal of capturing or identifying player metrics in order to recreate similar viewpoints for the player from a VR perspective. With the wearable changing to VR glasses, it may be feasible and more efficient to add existing capabilities into the glasses so there is only one wearable. 
-* Anchor Software Update: The anchor will need to be updated to each invididual court. The good thing about the glasses is that the court will never change. The environment of the court may change therefore once one court is program and learned, it could always be learned from the VR software perspective which connects to the anchor and glasses. 
+* VR Glasses:The VR glasses connects to the updated anchor to also locate the player and the metrics of the court to create the virtual environment. The VR glasses allows for players to see and interact with the training software-- training courses, figures, cones, drill directions, corrections, drill type, etc.
+* VR Software  
+The software is designed to control the features within the virtual environment (the anchor) and individual features within the VR glasses, to create a game like training environment for players to develop their skills in every facet of the game.  
+* Basketball, Wearable, and Anchor Software Update:     
+    * Basketball Software Update: There are settings where the basketball is not shown in the VR environment (for training purposes). Updating the software inside of the basketball allows for the basketball to be trackable and visable in the virtual environment.    
+    * Wearable Software Update: The wearable will need to be updated with the goal of capturing or identifying player metrics in order to recreate similar viewpoints for the player from a VR perspective. With the wearable changing to VR glasses, it may be feasible and more efficient to add existing capabilities into the glasses so there is only one wearable. 
+    * Anchor Software Update: The anchor will need to be updated to each invididual court. The good thing about the glasses is that the court will never change. The environment of the court may change therefore once one court is program and learned, it could always be learned from the VR software perspective which connects to the anchor and glasses. 
 
 **Why are these technologies appropriate for your solution?**     
- 
+
 The technologies provided are appropiate for the solution because ultimately the goal is to cover the whole of how VR combined with AI has the potential to visually recreate game like situations in a similation environment, which has the potential to hold players accountable without coaches or trainers present.    
 As you connect with different industries whom have already created similar ideas and products, with the goal of creating the most low-cost prototype possible in order to completing this function. This is not about cutting corner, it's about starting somewhere. The problem is that athletes today are running faster and jumping higher than ever before. The game of basketball, naturally confines this athleticism within halves of the court for majority of games. VR and AI combined provides the opportunity to fundamentally build an effective player by provide game-like confinements in training environments to teach a player how to use their athleticism within the confinements of the game. 
