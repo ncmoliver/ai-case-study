@@ -3,15 +3,15 @@
 
 ![ShotTracker company logo](shotTracker.jpeg)
 # Table Of Contents
-[Overview and Orgin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)    
+* [Overview and Orgin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)    
 
-[Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)    
+* [Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)    
 
-[Landscape](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#landscape)    
+* [Landscape](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#landscape)    
 
-[Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)    
+* [Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)    
 
-[Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)    
+* [Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)    
 
 # Overview and Origin
 
