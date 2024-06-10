@@ -86,13 +86,13 @@ ShotQuality could be considered in a number of industries from spectator sports,
 
 **What are the other major companies in this field?**    
 
-* Major Sports Analytic Companies  
+### Major Sports Analytic Companies  
 #### [Stats Perform](https://www.statsperform.com/)    
 ![Stats perform logo.](statsPerform.png)    
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
     
-* Major Basketball Analytic Companies
+### Major Basketball Analytic Companies
 #### [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
     
