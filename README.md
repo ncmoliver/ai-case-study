@@ -1,4 +1,4 @@
-# AI Case Study: ShotQuality
+# AI Case Study: ShotQuality's AI Models Impact In The Game of Basketball
 ![ShotQuality company logo](logo.jpeg)
 ## Table Of Contents
 [Overview and Origin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)   
@@ -71,8 +71,17 @@ To train the model, Gerszerb spoke about the baseline he gave to the model which
 ## Landscape
 
 **What field is the company in?**
+ShotQuality could be considered in a number of industries from spectator sports, but it is better to niche down to classify them in the sports analytics field. 
 
-**What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
+**What have been the major trends and innovations of this field over the last 5&ndash;10 years?**     
+* Most Viewed
+    * In the USA: ***football, basketball, and baseball*** are the most viewed sports.    
+    * Internationally: ***soccer and cricket*** attract the most number of international fans. 
+* Engagement
+    * In 2023, the Fifa World Cup Qatar had around 5 billion people engaging over social media. 
+* Expanding Markets
+    * F1 race attendance increased to attracting a total of 5.7 million fans last year.   
+    
 
 **What are the other major companies in this field?**
 
