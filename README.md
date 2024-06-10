@@ -51,7 +51,8 @@ ShotQuality used AI technologies within an algorithm based software that is base
 * Type Of Shot: A catch and shoot shot naturally has a higher probability of going in than a shot off the dribble. A more drastic example, a layup has a higher probability of scoring than a 3 pointer. 
 * Contested/Open: A player that has spaces and time to shoot the basketball, has more access to the muscle memory that they use to naturally shoot. Contested shots have the ability to rush, confine, or limit a players natural movement.
 
-*Implementation*
+*Implementation*    
+
 To train the model, Gerszerb spoke about the baseline he gave to the model which was statistics on the 50th percentile, comparing the difference between the worst and best statistic for each factor. From that baseline, he adjust the result based on player ability to make the specific type of shot taken.
 
 
