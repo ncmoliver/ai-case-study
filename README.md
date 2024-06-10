@@ -88,12 +88,12 @@ ShotQuality could be considered in a number of industries from spectator sports,
 ## Results
 * Sports Analytics
     * Stats Perform    
-    [Stats perform logo.](statsPerform.png)
+    ![Stats perform logo.](statsPerform.png)
         * A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
     * 
 * Basketball Analytics
     * Catapult Sports
-    [Catapult Sports logo.](catapult.png)    
+    ![Catapult Sports logo.](catapult.png)    
 
 **What has been the business impact of this company so far?**    
 In there second season, ShotQuality has partnered with more than 60 NCAA teams.    
