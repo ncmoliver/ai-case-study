@@ -169,3 +169,5 @@ The hardest task to accomplish in player and team development is mentally puttin
 **Why are these technologies appropriate for your solution?**    
 
 These technologies are appropiate for my solution because currently there are already products on the market that uses AI technologies to analyze video footage. With this, ShotQuality could create a similar product to add into thier existing algorithm in order to provide the additional metrics they will need in order to track and provide a visual representation on future action/movements. 
+
+# References
