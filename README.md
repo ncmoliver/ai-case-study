@@ -98,7 +98,7 @@ Provides cost effective solutions for watching, sharing, and learning from film.
 ***
 ### Major Basketball Analytic Companies
 #### 1. [Catapult Sports](https://www.catapult.com/sports/basketball)
-![Catapult Sports logo.](catapult.png)  
+![Catapult Sports logo.](catapult.jpeg)  
     
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
 ***
