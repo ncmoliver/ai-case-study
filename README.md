@@ -83,9 +83,8 @@ ShotQuality could be considered in a number of industries from spectator sports,
     * F1 race attendance increased to attracting a total of 5.7 million fans last year.   
 
 
-**What are the other major companies in this field?**
+**What are the other major companies in this field?**    
 
-## Results
 * Sports Analytics
     * Stats Perform    
     ![Stats perform logo.](statsPerform.png)
@@ -94,7 +93,7 @@ ShotQuality could be considered in a number of industries from spectator sports,
 * Basketball Analytics
     * Catapult Sports
     ![Catapult Sports logo.](catapult.png)    
-
+## Results
 **What has been the business impact of this company so far?**    
 In there second season, ShotQuality has partnered with more than 60 NCAA teams.    
 
