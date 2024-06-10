@@ -58,7 +58,7 @@ Solutions that this company offers that no other competitors offer is the direct
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**    
 
 ShotQuality used AI technologies within an algorithm based software that is based on 90 different variables. Based on a podcast, Gerszerb breaks down some of the main factors that goes into the algorithm:
-* Shot Making ability: A player natural ability to shoot the type of shot they are taking. 
+* Shot Making Ability: A player natural ability to shoot the type of shot they are taking. 
 * Type Of Shot: A catch and shoot shot naturally has a higher probability of going in than a shot off the dribble. A more drastic example, a layup has a higher probability of scoring than a 3 pointer. 
 * Contested/Open: A player that has spaces and time to shoot the basketball, has more access to the muscle memory that they use to naturally shoot. Contested shots have the ability to rush, confine, or limit a players natural movement.
 
@@ -70,7 +70,7 @@ To train the model, Gerszerb spoke about the baseline he gave to the model which
 
 ## Landscape
 
-**What field is the company in?**
+**What field is the company in?**    
 ShotQuality could be considered in a number of industries from spectator sports, but it is better to niche down to classify them in the sports analytics field. 
 
 **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**     
@@ -81,17 +81,28 @@ ShotQuality could be considered in a number of industries from spectator sports,
     * In 2023, the Fifa World Cup Qatar had around 5 billion people engaging over social media. 
 * Expanding Markets
     * F1 race attendance increased to attracting a total of 5.7 million fans last year.   
-    
+
 
 **What are the other major companies in this field?**
 
 ## Results
+* Sports Analytics
+    * Stats Perform    
+    [Stats perform logo.](statsPerform.png)
+        * A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
+    * 
+* Basketball Analytics
+    * Catapult Sports
+    [Catapult Sports logo.](catapult.png)    
 
-* What has been the business impact of this company so far?
+**What has been the business impact of this company so far?**    
+In there second season, ShotQuality has partnered with more than 60 NCAA teams.    
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+**What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**    
 
-* How is your company performing relative to competitors in the same field?
+
+**How is your company performing relative to competitors in the same field?**    
+
 
 ## Recommendations
 
