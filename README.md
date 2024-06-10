@@ -87,12 +87,14 @@ ShotQuality could be considered in a number of industries from spectator sports,
 
 * Sports Analytics    
 #### [Stats Perform](https://www.statsperform.com/)    
-![Stats perform logo.](statsPerform.png)
+![Stats perform logo.](statsPerform.png)    
+    
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
     
 * Basketball Analytics
 #### [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
+    
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
 ## Results
 **What has been the business impact of this company so far?**    
