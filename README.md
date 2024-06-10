@@ -85,23 +85,26 @@ ShotQuality could be considered in a number of industries from spectator sports,
 
 **What are the other major companies in this field?**    
 
-* Sports Analytics    
+* Major Sports Analytic Companies  
 #### [Stats Perform](https://www.statsperform.com/)    
 ![Stats perform logo.](statsPerform.png)    
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
     
-* Basketball Analytics
+* Major Basketball Analytic Companies
 #### [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
     
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
 ## Results
 **What has been the business impact of this company so far?**    
+    
 In there second season, ShotQuality has partnered with more than 60 NCAA teams.    
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**    
-
+    
+The primary metric ShotQuality is using to gauge success is wins and losses. Ultimately, we know coaches want to win basketball games. Providing them with metrics that pinpoint factors around your teams chances of winning and losing, through the algorithmics software that ultimately predicts a made or missed shot taking into account more than 90 different variables. 
+> Teams who have signed up with ShotQuality win on average three more games than teams who have not signed up.
 
 **How is your company performing relative to competitors in the same field?**    
 
