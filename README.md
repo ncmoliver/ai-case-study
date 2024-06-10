@@ -6,9 +6,9 @@
 ShotQuality was founded in 2020. 
 
 **Who are the founders of the company?**    
-Simon Gerszberg.
+Simon Gerszberg.    
 **How did the idea for the company (or project) come about?**    
-Gerszberg worked as a data analyst for Colgate University Men's Basketball Program. 
+Gerszberg worked as a data analyst for Colgate University Men's Basketball Program.     
 **How is the company funded? How much funding have they received?**    
 The company received seed money from Investors. 
 
