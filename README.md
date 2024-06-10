@@ -95,6 +95,7 @@ A sports AI company that combines statistics with performance to enhance decisio
 #### [Hudl](https://www.hudl.com/)    
 ![Hudl Logo.](hudl.jpeg)    
 Provides cost effective solutions for watching, sharing, and learning from film. They market to all leagues from professional down to amateur. 
+***
 ### Major Basketball Analytic Companies
 #### [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
