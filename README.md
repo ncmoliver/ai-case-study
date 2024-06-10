@@ -125,7 +125,9 @@ The primary metric ShotQuality is using to gauge success is wins and losses. Ult
 > Teams who have signed up with ShotQuality win on average three more games than teams who have not signed up.
 
 **How is your company performing relative to competitors in the same field?**    
-ShotQuality is performing fairly well to say that they are niche down into the basketball arena. Companies like Stat Perform and Catapult Sports also use their products and software for other sports. 
+    
+ShotQuality is performing fairly well to say that they are niche down into the basketball arena. Companies like Stat Perform and Catapult Sports also use their products and software for other sports.    
+
 For companies niche down specifically to basketball like ShotTracker and Noah Baksketball, I believe they all have different ways of going about things.     
 ***Noah Basketball*** focuses specifically on player development, tracking basketball shooting metrics. 
 ***ShotTracker*** is one of the leading basketball analytical companies, as it was founded in 2013. ShotQuality compared to ShotTracker is a bit unfair at the moment as ShotQuality is only two years old. Within those two years, they have seen a huge growth in success, funding, and subscriptions. 
