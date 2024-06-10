@@ -10,7 +10,7 @@
 [Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)    
 
 [Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)    
-    
+
 
 ## Overview and Origin
 
@@ -70,11 +70,11 @@ To train the model, Gerszerb spoke about the baseline he gave to the model which
 
 ## Landscape
 
-* What field is the company in?
+**What field is the company in?**
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+**What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
 
-* What are the other major companies in this field?
+**What are the other major companies in this field?**
 
 ## Results
 
