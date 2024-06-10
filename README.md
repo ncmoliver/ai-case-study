@@ -2,15 +2,14 @@
 
 ## Overview and Origin
 
-**When was the company incorporated?**
+**When was the company incorporated?**    
 ShotQuality was founded in 2020. 
 
-* Who are the founders of the company?
+**Who are the founders of the company?**    
 Simon Gerszberg.
-* How did the idea for the company (or project) come about?
+**How did the idea for the company (or project) come about?**    
 Gerszberg worked as a data analyst for Colgate University Men's Basketball Program. 
-
-* How is the company funded? How much funding have they received?
+**How is the company funded? How much funding have they received?**    
 The company received seed money from Investors. 
 
 ## Business Activities
