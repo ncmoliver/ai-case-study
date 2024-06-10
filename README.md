@@ -143,8 +143,10 @@ In doing so, the software/model has enough factors to accurately gauge and possi
 For example, just looking at a common offensive tool like a pick & roll. Understanding there are 4 definitive ways to guard the pick and roll, identifying all other movements as a defensive malfunction. The three ways are to switch on the screen, hedge, get through, or ice the screen. The software should be able to identify how the screen was played defensively and how the offensive reacted to the defenses measures.   
 Understand that the defense dictats all offensivive actions, is a key factor that you want to build the model off of. 
 
-**Why do you think that offering this product or service would benefit the company?**       
-3D Predictive Training & Game Similations
+**Why do you think that offering this product or service would benefit the company?**    
+
+*3D Predictive Training & Game Similations*    
+
 ![Example 3D first-person basketball similation](3dBasketball.jpeg)    
 Offering a product/service that could visually show the different possibilities of future movement would be next level in the game of basketball. Coaches with this insight, could now plan around predicted roadblocks that may.    
 
