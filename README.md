@@ -103,7 +103,7 @@ Provides cost effective solutions for watching, sharing, and learning from film.
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
 ***
 #### 2. [ShotTracker](https://shottracker.com/)
-![ShotTracker](shotTracker.png)
+![ShotTracker](shotTracker.jpeg)
 ShotTracker is a company that uses 3 components to track player decisions, to providea plethora of different information for example, instant stats, player location (included labeled on-screen), live real-time reporting.    
 
 The 3 components used by ShotTracker are the following:
