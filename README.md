@@ -145,7 +145,7 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 
 **Why do you think that offering this product or service would benefit the company?**       
 * 3D Predictive Training & Game Similations
-[Example 3D first-person basketball similation](3dBasketball.jpeg)
+![Example 3D first-person basketball similation](3dBasketball.jpeg)
 Offering a product/service that could visually show the different possibilities of future movement would be next level in the game of basketball. Coaches with this insight, could now plan around predicted roadblocks that may.    
 
 **What technologies would this additional product or service utilize?**     
