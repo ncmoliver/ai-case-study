@@ -5,7 +5,7 @@
 
 [Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)    
 
-[Landscape](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#landscape)    
+[Landscape](https://github.com/ncmoliver/ai-case-study/blob/main/README.md#landscape)    
 
 [Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)    
 
