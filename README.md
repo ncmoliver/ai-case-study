@@ -171,7 +171,7 @@ The hardest task to accomplish in player and team development is mentally puttin
 These technologies are appropiate for my solution because currently there are already products on the market that uses AI technologies to analyze video footage. With this, ShotQuality could create a similar product to add into thier existing algorithm in order to provide the additional metrics they will need in order to track and provide a visual representation on future action/movements. 
 
 # References
-* ShotQuality was founded in 2020 by Simon Gerszberg, a former student manager for Colgate's men's basketball team ("ShotQuality Raises Seed Round," Sports Business Journal, October 5, 2022). Retrieved from Sports Business Journal.     
+* ShotQuality was founded in 2020 by Simon Gerszberg, a former student manager for Colgate's men's basketball team ("ShotQuality Raises Seed Round," Sports Business Journal, October 5, 2022). Retrieved from [Sports Business Journal](https://www.sportsbusinessjournal.com/Daily/Issues/2022/10/05/Technology/shotquality-basketball-analytics-seed-round.aspx#:~:text=ShotQuality%20was%20founded%20in%202020,for%20Colgate's%20men's%20basketball%20team).     
 * Coaches that have subscribed to ShotQuality on average win more than 3 games a year compared to teams that have not signed up (Gerszberg, Simon. "ShotQuality.com," YouTube, November 25, 2020). Retrieved from YouTube.     
 * There are 351 Division I schools (NCSA College Recruiting. "Division 1 Men’s Basketball Colleges," NCSA Sports). Retrieved from NCSA Sports.    
 * A map of all 30 NBA teams (Atlist. "NBA Team Map - All 30 Teams on a Map"). Retrieved from Atlist.    
