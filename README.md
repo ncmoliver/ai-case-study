@@ -105,13 +105,15 @@ A sports wearable company that tracks player performance, body metrics, and prov
 #### 2. [ShotTracker](https://shottracker.com/)
 ![ShotTracker](shotTracker.png)
 ShotTracker is a company that uses 3 components to track player decisions, to providea plethora of different information for example, instant stats, player location (included labeled on-screen), live real-time reporting.    
+
 The 3 components used by ShotTracker are the following:
 - ShotTracker Enabled Basketball
 - Anchors (located in the rafters)
 - Player Sensors
 ***
 ### 3. [Noah Basketball](https://shottracker.com/)
-![Noah Basketball]()
+![Noah Basketball](https://www.noahbasketball.com/)
+A device that is installed on the backboard to gauge, track, and provide live feedback to player to enhance shooting.
 ## Results
 **What has been the business impact of this company so far?**    
     
