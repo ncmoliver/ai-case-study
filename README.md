@@ -1,5 +1,11 @@
 # AI Case Study: ShotQuality
 ![ShotQuality company logo](logo.jpeg)
+## Table Of Contents
+[Overview and Origin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)
+[Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)
+[Landscape](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#landscape)
+[Results](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#results)
+[Recommendations](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#recommendations)    
 
 ## Overview and Origin
 
