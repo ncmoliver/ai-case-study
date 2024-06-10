@@ -134,14 +134,19 @@ For example, ***Noah Basketball*** focuses specifically on player development, t
 ***ShotTracker*** is one of the leading basketball analytical companies, as it was founded in 2013. ShotQuality compared to ShotTracker is a bit unfair at the moment as ShotQuality is only two years old. Within those two years, they have seen a huge growth in success, funding, and subscriptions. 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)    
+**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**    
 Additional products and services that ShotQuality could offer are a visual predictions of player and team movements, training their ai model on common patterns and movmeents player make that correlate with the team system.    
-In doing so, they can gauge and possibly predict what is going to happen next and additional elements that can be added to heighten chance of success.  
+In doing so, the software/model has enough factors to accurately gauge and possibly predict future player action based on player past patterns, movements, and actions faced with a similar situation.
+For example, just looking at a common offensive tool like a pick & roll. Understanding there are 4 definitive ways to guard the pick and roll, identifying all other movements as a defensive malfunction. The three ways are to switch on the screen, hedge, get through, or ice the screen. The software should be able to identify how the screen was played defensively and how the offensive reacted to the defenses measures.   
+Understand that the defense dictats all offensivive actions, is a key factor that you want to build the model off of. 
 
-* Why do you think that offering this product or service would benefit the company?    
-Offering a product/service that could visually show the different possibilities of future movement would be next level in the game of basketball. Coaches with this insight, could now plan around predicted roadblocks that may 
-* What technologies would this additional product or service utilize?    
+**Why do you think that offering this product or service would benefit the company?**       
+Offering a product/service that could visually show the different possibilities of future movement would be next level in the game of basketball. Coaches with this insight, could now plan around predicted roadblocks that may.    
+
+**What technologies would this additional product or service utilize?**     
+
 *Software Update*: The software will need to be updated to produce a video version of the calculated product of the algorithm. Software will need to be designed to visually display metrics and factors that are being collected and analyzed by video software to create a animated version of a similated practice or game. The software will be able to track and recreate patters, plays, and movements. 
 
-* Why are these technologies appropriate for your solution?    
+**Why are these technologies appropriate for your solution?**    
+   
 These technologies are appropiate for my solution because currently there are already products on the market that uses AI technologies to analyze video footage. With this, ShotQuality could create a similar product to add into thier existing algorithm in order to provide the additional metrics they will need in order to track and provide a visual representation on future action/movements. 
