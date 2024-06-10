@@ -112,7 +112,7 @@ The 3 components used by ShotTracker are the following:
 - Player Sensors
 ***
 ### 3. [Noah Basketball](https://shottracker.com/)
-![Noah Basketball](https://www.noahbasketball.com/)
+![Noah Basketball](noahBasketball.webp)
 A device that is installed on the backboard to gauge, track, and provide live feedback to player to enhance shooting.
 ## Results
 **What has been the business impact of this company so far?**    
