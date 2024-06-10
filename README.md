@@ -87,20 +87,31 @@ ShotQuality could be considered in a number of industries from spectator sports,
 **What are the other major companies in this field?**    
 
 ### Major Sports Analytic Companies  
-#### [Stats Perform](https://www.statsperform.com/)    
+#### 1. [Stats Perform](https://www.statsperform.com/)    
 ![Stats perform logo.](statsPerform.png)    
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
 ***
-#### [Hudl](https://www.hudl.com/)    
+#### 2. [Hudl](https://www.hudl.com/)    
 ![Hudl Logo.](hudl.jpeg)    
 Provides cost effective solutions for watching, sharing, and learning from film. They market to all leagues from professional down to amateur. 
 ***
 ### Major Basketball Analytic Companies
-#### [Catapult Sports](https://www.catapult.com/sports/basketball)
+#### 1. [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
     
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
+***
+#### 2. [ShotTracker](https://shottracker.com/)
+![ShotTracker](shotTracker.png)
+ShotTracker is a company that uses 3 components to track player decisions, to providea plethora of different information for example, instant stats, player location (included labeled on-screen), live real-time reporting.    
+The 3 components used by ShotTracker are the following:
+- ShotTracker Enabled Basketball
+- Anchors (located in the rafters)
+- Player Sensors
+***
+### 3. [Noah Basketball](https://shottracker.com/)
+![Noah Basketball]()
 ## Results
 **What has been the business impact of this company so far?**    
     
