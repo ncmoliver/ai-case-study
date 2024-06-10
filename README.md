@@ -1,5 +1,5 @@
 # ShotQuality's AI Models Impact In The Game of Basketball
-![ShotQuality company logo](logo.jpeg)
+![ShotQuality company logo](logo.jpeg){height=200px}
 ## Table Of Contents
 [Overview and Origin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)   
 
@@ -112,7 +112,7 @@ The 3 components used by ShotTracker are the following:
 - Player Sensors
 ***
 ### 3. [Noah Basketball](https://shottracker.com/)
-![Noah Basketball](noahBasketball.webp){height=200px}
+![Noah Basketball](noahBasketball.webp)
 A device that is installed on the backboard to gauge, track, and provide live feedback to player to enhance shooting.
 ***
 ## Results
