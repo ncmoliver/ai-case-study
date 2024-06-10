@@ -172,13 +172,13 @@ These technologies are appropiate for my solution because currently there are al
 
 # References
 * ShotQuality was founded in 2020 by Simon Gerszberg, a former student manager for Colgate's men's basketball team ("ShotQuality Raises Seed Round," Sports Business Journal, October 5, 2022). Retrieved from [Sports Business Journal](https://www.sportsbusinessjournal.com/Daily/Issues/2022/10/05/Technology/shotquality-basketball-analytics-seed-round.aspx#:~:text=ShotQuality%20was%20founded%20in%202020,for%20Colgate's%20men's%20basketball%20team).     
-* Coaches that have subscribed to ShotQuality on average win more than 3 games a year compared to teams that have not signed up (Gerszberg, Simon. "ShotQuality.com," YouTube, November 25, 2020). Retrieved from YouTube.     
-* There are 351 Division I schools (NCSA College Recruiting. "Division 1 Men’s Basketball Colleges," NCSA Sports). Retrieved from NCSA Sports.    
-* A map of all 30 NBA teams (Atlist. "NBA Team Map - All 30 Teams on a Map"). Retrieved from Atlist.    
-* There are 213 NAIA schools (NCSA College Recruiting. "NAIA Men’s Basketball Colleges," NCSA Sports). Retrieved from NCSA Sports.    
-* The number of D1, D2, and D3 schools (NCSA College Recruiting. "Men’s Basketball Colleges," NCSA Sports). Retrieved from NCSA Sports.    
-* Shot making ability is discussed by Simon Gerszberg on ShotQuality.com (Gerszberg, Simon. "Simon Gerszberg - ShotQuality.com," Apple Podcasts). Retrieved from Apple Podcasts.    
-* The sports analytics market overview, including Texas A&M's agreement with Gemini Sports Analytics and the market shares of various segments ("Sports Analytics Market Size, Share & Trends Analysis Report," Grand View Research). Retrieved from Grand View Research.    
-* An overview of ShotTracker's focus and offerings ("ShotTracker," CB Insights). Retrieved from CB Insights.     
-* How ShotTracker works, detailing its three components: basketball, wearable, and anchors ("How It Works," ShotTracker). Retrieved from ShotTracker.
-* Insights on the sports analytics market, including its impact on sports betting and media organizations ("Spectator Sports Market - Growth, Trends, and Forecasts," Mordor Intelligence). Retrieved from Mordor Intelligence.
+* Coaches that have subscribed to ShotQuality on average win more than 3 games a year compared to teams that have not signed up (Gerszberg, Simon. "ShotQuality.com," YouTube, November 25, 2020). Retrieved from [YouTube](https://www.youtube.com/watch?v=rBd9FbnrogI).     
+* There are 351 Division I schools (NCSA College Recruiting. "Division 1 Men’s Basketball Colleges," NCSA Sports). Retrieved from [NCSA Sports](https://www.ncsasports.org/mens-basketball/division-1-colleges).    
+* A map of all 30 NBA teams (Atlist. "NBA Team Map - All 30 Teams on a Map"). Retrieved from [Atlist](https://www.atlist.com/showcase/nba-team-map-all-30-teams-on-a-map#:~:text=About%20The%20NBA&text=The%20league%20is%20composed%20of,22%20states%20and%20one%20province).    
+* There are 213 NAIA schools (NCSA College Recruiting. "NAIA Men’s Basketball Colleges," NCSA Sports). Retrieved from [NCSA Sports](https://www.ncsasports.org/mens-basketball/naia-colleges).    
+* The number of D1, D2, and D3 schools (NCSA College Recruiting. "Men’s Basketball Colleges," NCSA Sports). Retrieved from [NCSA Sports](https://www.ncsasports.org/mens-basketball/colleges).    
+* Shot making ability is discussed by Simon Gerszberg on ShotQuality.com (Gerszberg, Simon. "Simon Gerszberg - ShotQuality.com," Apple Podcasts). Retrieved from [Apple Podcasts](https://podcasts.apple.com/us/podcast/simon-gerszberg-shotquality-com/id1228435713?i=1000500070228).    
+* The sports analytics market overview, including Texas A&M's agreement with Gemini Sports Analytics and the market shares of various segments ("Sports Analytics Market Size, Share & Trends Analysis Report," Grand View Research). Retrieved from [Grand View Research](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market).    
+* An overview of ShotTracker's focus and offerings ("ShotTracker," CB Insights). Retrieved from [CB Insights](https://www.cbinsights.com/company/shottracker).     
+* How ShotTracker works, detailing its three components: basketball, wearable, and anchors ("How It Works," ShotTracker). Retrieved from [ShotTracker](https://shottracker.com/howitworks).
+* Insights on the sports analytics market, including its impact on sports betting and media organizations ("Spectator Sports Market - Growth, Trends, and Forecasts," Mordor Intelligence). Retrieved from [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/spectator-sports-market).
