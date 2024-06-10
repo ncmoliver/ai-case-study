@@ -168,7 +168,7 @@ The plethora of different avenues that can be taken from the advancement of the 
 The hardest task to accomplish in player and team development is mentally putting the player/team back in specific game situations. Allow them to reexpereince not only what happened on the occassion to slow the moment down and truly allow players to reexperience full speed game momemnts in a live simulation. 
 
 **What technologies would this additional product or service utilize?**     
-
+![image of a virtual enviroment of a basketball simulation](3dSimulation2.webp) ![Example drill simulator with court markers](3dSimulator.webp)
 *Software Update*: The software will need to be updated to produce a video version of the calculated product of the algorithm. Software will need to be designed to visually display metrics and factors that are being collected and analyzed by video software to create a animated version of a similated practice or game. The software will be able to track and recreate patters, plays, and movements. 
 
 **Why are these technologies appropriate for your solution?**    
