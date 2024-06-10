@@ -1,9 +1,10 @@
-# AI Case Study: Shot
+# AI Case Study: ShotQuality
+![ShotQuality company logo](logo.jpeg)
 
 ## Overview and Origin
 
 **When was the company incorporated?**    
-    
+
 ShotQuality was founded in 2020. 
 
 **Who are the founders of the company?**    
