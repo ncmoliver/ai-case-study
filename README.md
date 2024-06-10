@@ -21,10 +21,10 @@ The company received seed money from Investors.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+**What specific problem is the company or project trying to solve?**
 The specific problem ShotQuality is looking to solve is to help teams win more games, by using an algorithm based software that predicts the outcome of a shot.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?    
+**Who is the company's intended customer? Is there any information about the market size of this set of customers?**   
 The companies intended customer are basketball teams. Currently there are 3 main leagues, NBA, College, and High School that track stats. Below are a list of the top 2, NBA and Colleges with basketball programs, which show a clear picture of the market size.     
 
 | League          | # of teams |   
@@ -36,9 +36,9 @@ The companies intended customer are basketball teams. Currently there are 3 main
 | College - NAIA  | 213 teams  |
 | College - Junior| > 522 teams|
 
-* What solution does this company offer that their competitors do not or cannot offer? What is the unfair advantage they utilize?
+**What solution does this company offer that their competitors do not or cannot offer? What is the unfair advantage they utilize?**
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
 ## Landscape
 
