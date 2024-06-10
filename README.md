@@ -91,7 +91,10 @@ ShotQuality could be considered in a number of industries from spectator sports,
 ![Stats perform logo.](statsPerform.png)    
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
-    
+***
+#### [Hudl](https://www.hudl.com/)    
+![Hudl Logo.](hudl.jpeg)    
+Provides cost effective solutions for watching, sharing, and learning from film. They market to all leagues from professional down to amateur. 
 ### Major Basketball Analytic Companies
 #### [Catapult Sports](https://www.catapult.com/sports/basketball)
 ![Catapult Sports logo.](catapult.png)  
