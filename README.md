@@ -84,7 +84,7 @@ ShotQuality could be considered in a number of industries from spectator sports,
 
 ### Major Sports Analytic Companies  
 #### 1. [Stats Perform](https://www.statsperform.com/)    
-<img src="statsPerform.png" width="300" height="300">
+<img src="statsPerform.png" width="500" height="300">
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
 ***
@@ -148,8 +148,8 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 
 *3D Predictive Training & Game Simulations*    
 
-![Example 3D first-person basketball simulation](3dBasketball.jpeg)       
-    
+<img src="3dBasketball.jpeg" width="500" height="300">
+
 Offering a product/service that is programmed to visually show the different possible outcomes of future player movement would be next level in the game of basketball for a company like ShotQuality. They have already built a AI model that uses different variables in basketball in order to predict the chances of every shot. However, train the model on past player actions, patterns, and behavior in order to predict future decisions would be next level.    
     
 As we know basketball has a natural flow that must occur, when one team does not have the ball, other team has the basketball. If a team is not on offense they are on defense. When the basketball is in play it is in either 1 of four different parts of the game, which are dictated by the way the defense attempts to guard the basketball. The fours parts are Set, Transiton, Zone, or Press. This proves that there are set variables in the forever changing game of basketabll.     
@@ -158,7 +158,7 @@ ShotQuality goal is to help teams win games by taking into account more informat
 Also with this new technology, it gives a new meaning to player development. It has the potential to recreate game situations, to put a player back in the same situation he ran away from, did not face, or simply did not do well on. Instead of waiting for the situation to randomly appear again, the player will have many more reps to master the skill, fear, or level they are looking to accomplish.
 ***  
 **Practice & Game Simulators**    
-![A basketball player dribbling using 3d simulation glasses](3dSimulation.jpeg)     
+<img src="3dSimulation.jpeg" width="500" height="300">
 
 The company has a great service that they provide to their customers currently. Offering a 3d visual of predicted outcomes pairs well with the companies goals of helping teams win games.    
 
@@ -169,7 +169,8 @@ The plethora of different avenues that can be taken from the advancement of the 
 The hardest task to accomplish in player and team development is mentally putting the player/team back in specific game situations. Allow them to reexpereince not only what happened on the occassion to slow the moment down and truly allow players to reexperience full speed game momemnts in a live simulation. 
 
 **What technologies would this additional product or service utilize?**     
-![image of a virtual enviroment of a basketball simulation](3dSimulation2.webp) ![Example drill simulator with court markers](3dSimulator.webp)
+<img src="3dSimulator.webp" width="500" height="300">
+
 *Software Update*: The software will need to be updated to produce a video version of the calculated product of the algorithm. Software will need to be designed to visually display metrics and factors that are being collected and analyzed by video software to create a animated version of a similated practice or game. The software will be able to track and recreate patters, plays, and movements. 
 
 **Why are these technologies appropriate for your solution?**    
