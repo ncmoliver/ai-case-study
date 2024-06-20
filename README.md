@@ -146,7 +146,7 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 **Why do you think that offering this product or service would benefit the company?**    
 
 ***3D Predictive Training & Game Simulations***
-<img src="3dBasketball.jpeg" width="600" height="500">
+<img src="3dBasketball.jpeg" width="400" height="300">
 
 Offering a product/service that is programmed to visually show the different possible outcomes of future player movement would be next level in the game of basketball for a company like ShotQuality. They have already built a AI model that uses different variables in basketball in order to predict the chances of every shot. However, train the model on past player actions, patterns, and behavior in order to predict future decisions would be next level.    
     
@@ -156,7 +156,7 @@ ShotQuality goal is to help teams win games by taking into account more informat
 Also with this new technology, it gives a new meaning to player development. It has the potential to recreate game situations, to put a player back in the same situation he ran away from, did not face, or simply did not do well on. Instead of waiting for the situation to randomly appear again, the player will have many more reps to master the skill, fear, or level they are looking to accomplish.
 ***  
 ***Practice & Game Simulators***    
-<img src="3dSimulation.jpeg" width="600" height="500">
+<img src="3dSimulation.jpeg" width="400" height="300">
 
 The company has a great service that they provide to their customers currently. Offering a 3d visual of predicted outcomes pairs well with the companies goals of helping teams win games.    
 
