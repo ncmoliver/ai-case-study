@@ -85,6 +85,7 @@ ShotQuality could be considered in a number of industries from spectator sports,
 ### Major Sports Analytic Companies  
 #### 1. [Stats Perform](https://www.statsperform.com/)    
 ![Stats perform logo.](statsPerform.png)    
+<img src="statsPerform.png" width="300" height="300">
     
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
 ***
