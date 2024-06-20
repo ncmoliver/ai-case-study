@@ -147,7 +147,7 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 
 *3D Predictive Training & Game Simulations*    
 
-<img src="3dBasketball.jpeg" width="500" height="400">
+<img src="3dBasketball.jpeg" width="500" height="500">
 
 Offering a product/service that is programmed to visually show the different possible outcomes of future player movement would be next level in the game of basketball for a company like ShotQuality. They have already built a AI model that uses different variables in basketball in order to predict the chances of every shot. However, train the model on past player actions, patterns, and behavior in order to predict future decisions would be next level.    
     
@@ -157,7 +157,7 @@ ShotQuality goal is to help teams win games by taking into account more informat
 Also with this new technology, it gives a new meaning to player development. It has the potential to recreate game situations, to put a player back in the same situation he ran away from, did not face, or simply did not do well on. Instead of waiting for the situation to randomly appear again, the player will have many more reps to master the skill, fear, or level they are looking to accomplish.
 ***  
 **Practice & Game Simulators**    
-<img src="3dSimulation.jpeg" width="500" height="400">
+<img src="3dSimulation.jpeg" width="500" height="500">
 
 The company has a great service that they provide to their customers currently. Offering a 3d visual of predicted outcomes pairs well with the companies goals of helping teams win games.    
 
@@ -168,7 +168,7 @@ The plethora of different avenues that can be taken from the advancement of the 
 The hardest task to accomplish in player and team development is mentally putting the player/team back in specific game situations. Allow them to reexpereince not only what happened on the occassion to slow the moment down and truly allow players to reexperience full speed game momemnts in a live simulation. 
 
 **What technologies would this additional product or service utilize?**     
-<img src="3dSimulator.webp" width="500" height="400">
+<img src="3dSimulator.webp" width="500" height="500">
 
 *Software Update*: The software will need to be updated to produce a video version of the calculated product of the algorithm. Software will need to be designed to visually display metrics and factors that are being collected and analyzed by video software to create a animated version of a similated practice or game. The software will be able to track and recreate patters, plays, and movements. 
 
