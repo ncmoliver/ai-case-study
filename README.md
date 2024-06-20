@@ -15,6 +15,15 @@
 ## Overview and Origin
 ShotQuality is a basketball analytics company that combines that usage of "court vision technology and  AI to generate player location data", with the goal of predicting shot probability or expected result, to help teams win more games. The company was founded in 2020 by Simon Gerszberg.Gerszberg worked as a data analyst for Colgate University Men's Basketball Program. Two known investors that support ShotQuality are CTC Venture Capitalist and TIA Ventures.  The AI model is based on 5 key factors:    
 
+
+| Key Factor      | Definition |   
+| ------------    | ---------- |
+| Defensive Distance | How defensive positioning and abilities impact the shot.|
+| College - D1    | 351 teams  |
+| College - D2    | 304 teams  |
+| College - D3    | 420 teams  |
+| College - NAIA  | 213 teams  |
+| College - Junior| > 522 teams|
 **1. Defensive Distance**    
 How defensive positioning and abilities impact the shot.    
 
