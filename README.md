@@ -1,5 +1,5 @@
 # ShotQuality's AI Models Impact In The Game of Basketball
-![ShotQuality company logo](logo.jpeg){height=200px}
+<img src="logo.jpeg" width="800" height="500">
 ## Table Of Contents
 [Overview and Origin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)   
 
@@ -89,19 +89,19 @@ ShotQuality could be considered in a number of industries from spectator sports,
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
 ***
 #### 2. [Hudl](https://www.hudl.com/)    
-<img src="hudl.jpeg" width="300" height="300">
+<img src="hudl.jpeg" width="500" height="300">
 
 Provides cost effective solutions for watching, sharing, and learning from film. They market to all leagues from professional down to amateur. 
 ***
 ### Major Basketball Analytic Companies
 #### 1. [Catapult Sports](https://www.catapult.com/sports/basketball)
-<img src="catapult.jpeg" width="300" height="300">
+<img src="catapult.jpeg" width="500" height="300">
    
 A sports wearable company that tracks player performance, body metrics, and provide video feedback and insight based on player tracking.  
 ***
 #### 2. [ShotTracker](https://shottracker.com/)
 ![ShotTracker](shotTracker.jpeg)
-<img src="shotTracker.jpeg" width="300" height="300">
+<img src="shotTracker.jpeg" width="500" height="300">
 
 ShotTracker is a company that uses 3 components to track player decisions, to providea plethora of different information for example, instant stats, player location (included labeled on-screen), live real-time reporting.    
 
@@ -111,7 +111,7 @@ The 3 components used by ShotTracker are the following:
 - Player Sensors
 ***
 ### 3. [Noah Basketball](https://shottracker.com/)
-<img src="noahBasketball.webp" width="300" height="300">
+<img src="noahBasketball.webp" width="500" height="300">
 
 A device that is installed on the backboard to gauge, track, and provide live feedback to player to enhance shooting.
 ***
