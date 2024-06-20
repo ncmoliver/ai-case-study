@@ -1,6 +1,8 @@
 # ShotQuality's AI Models Impact In The Game of Basketball
 <img src="logo.jpeg" width="800" height="500">
+
 ## Table Of Contents
+
 [Overview and Origin](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#overview-and-origin)   
 
 [Business Activities](https://github.com/ncmoliver/ai-case-study?tab=readme-ov-file#business-activities)    
