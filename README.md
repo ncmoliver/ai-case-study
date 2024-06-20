@@ -147,7 +147,7 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 
 *3D Predictive Training & Game Simulations*    
 
-<img src="3dBasketball.jpeg" width="400" height="500">
+<img src="3dBasketball.jpeg" width="600" height="500">
 
 Offering a product/service that is programmed to visually show the different possible outcomes of future player movement would be next level in the game of basketball for a company like ShotQuality. They have already built a AI model that uses different variables in basketball in order to predict the chances of every shot. However, train the model on past player actions, patterns, and behavior in order to predict future decisions would be next level.    
     
