@@ -13,7 +13,7 @@
 
 
 ## Overview and Origin
-ShotQuality is a basketball analytics company that combines that usage of "court vision technology and  AI to generate player location data", with the goal of predicting shot probability to help teams win more games. The AI model is based on 5 key factors:    
+ShotQuality is a basketball analytics company that combines that usage of "court vision technology and  AI to generate player location data", with the goal of predicting shot probability or expected result, to help teams win more games. The company was founded in 2020 by Simon Gerszberg.Gerszberg worked as a data analyst for Colgate University Men's Basketball Program. Two known investors that support ShotQuality are CTC Venture Capitalist and TIA Ventures.  The AI model is based on 5 key factors:    
 
 **1. Defensive Distance**    
 How defensive positioning and abilities impact the shot.    
@@ -28,22 +28,8 @@ What type of action took place before the shot? (pick and roll, drive and kick)
 What happened during the shot? (off the dribble, catch and shoot, dunk.)    
 
 **5. Key Inferences:**    
-Room to improve and make up for missing data. (late shot clock, rushed, tall players.)
-**When was the company incorporated?**    
+This is a factor they use as room to make up for missing data. (late shot clock, rushed, tall players.)    
 
-ShotQuality was founded in 2020. 
-
-**Who are the founders of the company?**    
-
-Simon Gerszberg.    
-
-**How did the idea for the company (or project) come about?**     
-
-Gerszberg worked as a data analyst for Colgate University Men's Basketball Program.    
-
-**How is the company funded? How much funding have they received?**    
-
-The company received seed money from Investors. 
 
 ## Business Activities
 
@@ -205,3 +191,4 @@ The fundamentals of basketball gives way to AI because there is a right/wrong wa
 * An overview of ShotTracker's focus and offerings ("ShotTracker," CB Insights). Retrieved from [CB Insights](https://www.cbinsights.com/company/shottracker).     
 * How ShotTracker works, detailing its three components: basketball, wearable, and anchors ("How It Works," ShotTracker). Retrieved from [ShotTracker](https://shottracker.com/howitworks).
 * Insights on the sports analytics market, including its impact on sports betting and media organizations ("Spectator Sports Market - Growth, Trends, and Forecasts," Mordor Intelligence). Retrieved from [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/spectator-sports-market).
+* Company information on funding [crunchbase](https://www.crunchbase.com/organization/shotquality)
