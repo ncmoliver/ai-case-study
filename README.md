@@ -146,7 +146,7 @@ For example, just looking at a common offensive tool like a pick & roll. Underst
 Understand that the defense dictats all offensivive actions, is a key factor that you want to build the model off of. 
 
 **Why do you think that offering this product or service would benefit the company?**    
-
+***
 ***3D Predictive Training & Game Simulations***    
 <img src="3dBasketball.jpeg" width="400" height="300">
 
