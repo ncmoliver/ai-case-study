@@ -89,7 +89,7 @@ ShotQuality could be considered in a number of industries from spectator sports,
 A sports AI company that combines statistics with performance to enhance decision making in player/team performance, digital media, and broadcasting and betting. 
 ***
 #### 2. [Hudl](https://www.hudl.com/)    
-<img src="hudle.jpeg" width="300" height="300">
+<img src="hudl.jpeg" width="300" height="300">
 
 Provides cost effective solutions for watching, sharing, and learning from film. They market to all leagues from professional down to amateur. 
 ***
