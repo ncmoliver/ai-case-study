@@ -14,6 +14,7 @@
 
 ## Overview and Origin
 ShotQuality is a basketball analytics company that combines that usage of "court vision technology and  AI to generate player location data", with the goal of predicting shot probability to help teams win more games. The AI model is based on 5 key factors:    
+
 **1. Defensive Distance**    
 How defensive positioning and abilities impact the shot.    
 
