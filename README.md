@@ -145,7 +145,7 @@ Understand that the defense dictats all offensivive actions, is a key factor tha
 
 **Why do you think that offering this product or service would benefit the company?**    
 
-***3D Predictive Training & Game Simulations***
+***<p style="text-align: center;">3D Predictive Training & Game Simulations</p>***
 
 <img src="3dBasketball.jpeg" width="600" height="500">
 
