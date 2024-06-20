@@ -19,25 +19,10 @@ ShotQuality is a basketball analytics company that combines that usage of "court
 | Key Factor      | Definition |   
 | ------------    | ---------- |
 | Defensive Distance | How defensive positioning and abilities impact the shot.|
-| College - D1    | 351 teams  |
-| College - D2    | 304 teams  |
-| College - D3    | 420 teams  |
-| College - NAIA  | 213 teams  |
-| College - Junior| > 522 teams|
-**1. Defensive Distance**    
-How defensive positioning and abilities impact the shot.    
-
-**2. Shooter's Ability**    
-How good the shooter is.    
-
-**3. Play Type**    
-What type of action took place before the shot? (pick and roll, drive and kick)     
-
-**4. Shot Type:**    
-What happened during the shot? (off the dribble, catch and shoot, dunk.)    
-
-**5. Key Inferences:**    
-This is a factor they use as room to make up for missing data. (late shot clock, rushed, tall players.)    
+| Shooter's Ability    | How good the shooter is.   |
+| Play Type    | What type of action took place before the shot? (pick and roll, drive and kick)   |
+| Shot Type| What happened during the shot? (off the dribble, catch and shoot, dunk.) |
+| Key Inferences  | This is a factor they use as room to make up for missing data. (late shot clock, rushed, tall players.) |   
 
 
 ## Business Activities
